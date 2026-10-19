@@ -56,7 +56,6 @@ export default function MenuCard({
       />
       <h3>{name}</h3>
       <p>{description}</p>
-      <span className="price">{price}</span>
       <div className="menu-footer">
         <span className="price">{price}</span>
         <div className="like-widget">
